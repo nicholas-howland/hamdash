@@ -93,9 +93,9 @@ var aIMG = [
   ["HF PROPAGATION",
     "https://www.hamqsl.com/solar101vhf.php"],
   ["ISS CAMERA 1",
-    "iframe|https://www.youtube.com/embed/Ni-YkkvH6DQ?autoplay=0&mute=1","1"],
+    "iframe|https://www.youtube.com/embed/Ni-YkkvH6DQ?autoplay=1&mute=1","1"],
   ["ISS CAMERA 2",
-    "iframe|https://www.youtube.com/embed/iYmvCUonukw?autoplay=0&mute=1","1"],
+    "iframe|https://www.youtube.com/embed/iYmvCUonukw?autoplay=1&mute=1","1"],
   ["ISS HD",
     "iframe|https://www.youtube.com/embed/fO9e9jnhYK8?autoplay=0&mute=1","1"]
 ];
