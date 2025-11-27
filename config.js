@@ -3,7 +3,7 @@ var topBarCenterText = `KM7CCF`;
 
 // Grid layout
 var layout_cols = 4;
-var layout_rows = 3;
+var layout_rows = 2;
 
 // Menu items
 // Structure is as follows HTML Color code, Option, target URL, scaling 1=Original Size, side (optional, nothing is Left, "R" is Right)
