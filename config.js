@@ -92,7 +92,7 @@ var aIMG = [
   ],
   [
     "SATELLITE LOCAL",
-    "https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/GEOCOLOR/20253311506-20253311901-GOES18-ABI-PNW-GEOCOLOR-600x600.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/GEOCOLOR/GOES18-PNW-GEOCOLOR-600x600.gif",
   ],
   [
      "Forecast & Activity",
